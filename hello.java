@@ -1,7 +1,7 @@
-class hello
+class hello	#from dev2
 {
-	main(}
+	main(}	#from dev2
 	{
 		println("hello");
 	}
-}
+}#EOF
